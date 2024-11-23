@@ -1,0 +1,9 @@
+# May require python 3.10 or earlier for installing ProtEnc library
+
+bio==1.7.1
+numpy==1.26.4
+rdkit==2024.3.6
+seaborn==0.11.1
+scikit_mol==0.4.2
+Protenc==0.1.6
+PubChemPy==1.0.4
