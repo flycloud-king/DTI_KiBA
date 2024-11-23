@@ -13,6 +13,6 @@ There are five sections in the Juperter notebook "DTI_modeling.ipynb":
 4. Model
 5. Test
 
-Section 5 is for testing, assuming the test file is in the same format as the input file. It will retrieve sequence and smile string, do embedding, merge data, then load the model and create the prediction.
+Section 5 is for testing, assuming the test file is in the same format as the input file. It will retrieve sequence and smile string, do embedding, merge data, then load the model and create the prediction. The model was saved in "model" folder. Due to the file size limit (25M) on Github, I can't load my original model (48M) there. I created a small one, with much worse performance.
 
 
