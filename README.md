@@ -7,4 +7,6 @@ I tried to create two subsets for model building, but the subset with all KiBA s
 
 Two types of models were trained: RandomForest and XGBoost. A single approach with train test splitting, then a single model is build on train data and tested on tested. Both models show signs of over-fitting and XBGoost more so. Then I tried the nested cross-validation approach, and it tool forever to run.
 
+The test section is the at the end in Section 5. Assuming the test file is in the same format as the input file. Then went through several steps to generate the predictions
+
 
